@@ -1,0 +1,21 @@
+{
+  "name": "mongo",
+  "description": "",
+  "main": "app.js",
+  "authors": [
+    "张铂晗 <zhangbohan@octinn.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
